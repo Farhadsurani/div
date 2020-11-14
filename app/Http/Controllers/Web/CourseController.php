@@ -242,14 +242,9 @@ class CourseController extends Controller
         ]);
     }
 
-    public function testing()
-    {
-        dd('ss');
-    }
 
     public function courseDetails($id)
     {
-
 
         $course_details = $this->courseRepository->findWhere(['id' => $id]);
         $chapters = $this->chapterRepository->findWhere(['course_id' => $id]);
