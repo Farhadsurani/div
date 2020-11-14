@@ -1,0 +1,109 @@
+name,module_id,display_name,description,is_protected
+
+adminpanel,1,"Admin Panel","Admin Panel",1
+dashboard,2,Dashboard,Dashboard,1
+users.index,3,"List Users","List Roles",1
+users.create,3,"Create Users","Create Users",1
+users.show,3,"View User","View User",1
+users.edit,3,"Edit User","Edit User",1
+users.destroy,3,"Delete User","Delete User",1
+roles.index,4,"List Roles","List Roles",1
+roles.create,4,"Create Role","Create Role",1
+roles.show,4,"View Role","View Role",1
+roles.edit,4,"Edit Role","Edit Role",1
+roles.destroy,4,"Delete Role","Delete Role",1
+permissions.index,5,"List Permissions","List Permissions",1
+permissions.create,5,"Create Permission","Create Permission",1
+permissions.show,5,"View Permission","View Permission",1
+permissions.edit,5,"Edit Permission","Edit Permission",1
+permissions.destroy,5,"Delete Permission","Delete Permission",1
+modules.index,6,"List Modules","List Modules",1
+modules.create,6,"Create Module","Create Module",1
+modules.show,6,"View Module","View Module",1
+modules.edit,6,"Edit Module","Edit Module",1
+modules.destroy,6,"Delete Module","Delete Module",1
+languages.index,7,"List Languages","List Languages",1
+languages.create,7,"Create Languages","Create Languages",1
+languages.show,7,"View Languages","View Languages",1
+languages.edit,7,"Edit Languages","Edit Languages",1
+languages.destroy,7,"Delete Languages","Delete Languages",1
+pages.index,8,"List Pages","List Pages",1
+pages.create,8,"Create Pages","Create Pages",1
+pages.show,8,"View Pages","View Pages",1
+pages.edit,8,"Edit Pages","Edit Pages",1
+pages.destroy,8,"Delete Pages","Delete Pages",1
+contactus.index,9,"List Contact Us","List Contact Us Record",1
+contactus.create,9,"Create Contact Us","Create Contact Us Record",1
+contactus.show,9,"View Contact Us","View Contact Us Record",1
+contactus.edit,9,"Edit Contact Us","Edit Contact Us Record",1
+contactus.destroy,9,"Delete Contact Us","Delete Contact Us Record",1
+notifications.index,10,"List Notification","List Notification",1
+notifications.create,10,"Create Notification","Create Notification",1
+notifications.show,10,"View Notification","View Notification",1
+notifications.edit,10,"Edit Notification","Edit Notification",1
+notifications.destroy,10,"Delete Notification","Delete Notification",1
+menus.index,11,"List Menu","List Menu",1
+menus.create,11,"Create Menu","Create Menu",1
+menus.show,11,"View Menu","View Menu",1
+menus.edit,11,"Edit Menu","Edit Menu",1
+menus.destroy,11,"Delete Menu","Delete Menu",1
+settings.index,12,Settings,"Index Settings",1
+settings.create,12,Settings,"Create Settings",1
+settings.show,12,Settings,"Show Settings",1
+settings.edit,12,Settings,"Edit Settings",1
+settings.destroy,12,Settings,"Destroy Settings",1
+subscriptions.index,13,Subscriptions,"Index Subscriptions",0
+subscriptions.create,13,Subscriptions,"Create Subscriptions",0
+subscriptions.show,13,Subscriptions,"Show Subscriptions",0
+subscriptions.edit,13,Subscriptions,"Edit Subscriptions",0
+subscriptions.destroy,13,Subscriptions,"Destroy Subscriptions",0
+courses.index,14,Courses,"Index Courses",0
+courses.create,14,Courses,"Create Courses",0
+courses.show,14,Courses,"Show Courses",0
+courses.edit,14,Courses,"Edit Courses",0
+courses.destroy,14,Courses,"Destroy Courses",0
+chapters.index,15,Chapters,"Index Chapters",0
+chapters.create,15,Chapters,"Create Chapters",0
+chapters.show,15,Chapters,"Show Chapters",0
+chapters.edit,15,Chapters,"Edit Chapters",0
+chapters.destroy,15,Chapters,"Destroy Chapters",0
+chapter-ages.index,16,"Chapter Ages","Index Chapter Ages",0
+chapter-ages.create,16,"Chapter Ages","Create Chapter Ages",0
+chapter-ages.show,16,"Chapter Ages","Show Chapter Ages",0
+chapter-ages.edit,16,"Chapter Ages","Edit Chapter Ages",0
+chapter-ages.destroy,16,"Chapter Ages","Destroy Chapter Ages",0
+chapter-pages.index,17,"Chapter Pages","Index Chapter Pages",0
+chapter-pages.create,17,"Chapter Pages","Create Chapter Pages",0
+chapter-pages.show,17,"Chapter Pages","Show Chapter Pages",0
+chapter-pages.edit,17,"Chapter Pages","Edit Chapter Pages",0
+chapter-pages.destroy,17,"Chapter Pages","Destroy Chapter Pages",0
+events.index,18,Events,"Index Events",0
+events.create,18,Events,"Create Events",0
+events.show,18,Events,"Show Events",0
+events.edit,18,Events,"Edit Events",0
+events.destroy,18,Events,"Destroy Events",0
+news.index,19,News,"Index News",0
+news.create,19,News,"Create News",0
+news.show,19,News,"Show News",0
+news.edit,19,News,"Edit News",0
+news.destroy,19,News,"Destroy News",0
+galleries.index,20,Galleries,"Index Galleries",0
+galleries.create,20,Galleries,"Create Galleries",0
+galleries.show,20,Galleries,"Show Galleries",0
+galleries.edit,20,Galleries,"Edit Galleries",0
+galleries.destroy,20,Galleries,"Destroy Galleries",0
+questions.index,21,Questions,"Index Questions",0
+questions.create,21,Questions,"Create Questions",0
+questions.show,21,Questions,"Show Questions",0
+questions.edit,21,Questions,"Edit Questions",0
+questions.destroy,21,Questions,"Destroy Questions",0
+answers.index,22,Answers,"Index Answers",0
+answers.create,22,Answers,"Create Answers",0
+answers.show,22,Answers,"Show Answers",0
+answers.edit,22,Answers,"Edit Answers",0
+answers.destroy,22,Answers,"Destroy Answers",0
+testimonials.index,23,Testimonials,"Index Testimonials",0
+testimonials.create,23,Testimonials,"Create Testimonials",0
+testimonials.show,23,Testimonials,"Show Testimonials",0
+testimonials.edit,23,Testimonials,"Edit Testimonials",0
+testimonials.destroy,23,Testimonials,"Destroy Testimonials",0
